@@ -1,0 +1,38 @@
+.bg-white,
+footer[data-v-c971e704] {
+    background-color: rgb(17, 24, 39);
+}
+
+.the-dashboard-header {
+    background-color: rgb(17, 24, 39);
+    border: rgb(55, 65, 81);
+}
+
+.desktop-link[data-v-15f9397e],
+.router-link-active.desktop-link[data-v-15f9397e]   {
+    color: white;
+}
+
+.text-gray-700 {
+    color: black
+}
+
+.btn--regular[data-v-139654a8], 
+.btn--bell[data-v-4e08143f],
+kbd[data-v-139654a8],
+.series-link[data-v-e60ccf13],
+[type=checkbox],[type=radio],
+.link[data-v-c971e704],
+.link[data-v-c971e704]:hover  {
+    color: white;
+}
+
+.router--wrapper[data-v-549a39cc] {
+    background-color: rgb(51, 65, 85);
+}
+
+.the-dashboard[data-v-639c85e7],
+.top-drawer[data-v-e1fa45af],
+.the-dashboard-footer[data-v-639c85e7]  {
+     background-color: rgb(31, 41, 55);
+}
