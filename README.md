@@ -2,6 +2,8 @@
 
  UserStyle for [Kenmei](https://www.kenmei.co) Kenmei that puts the website in dark mode.
 
+ Tested on OperaGX
+
 ## Installation with Stylus
 
 1. Download the JSON file file in the releases.
@@ -10,7 +12,7 @@
 
 3. Open the browser extention by pressing "Manage".
 
-4. Download the JSON file file in the releases.
+4. Download the JSON file file in the [releases](https://github.com/Kyerstorm/Kenmei-Dark-Mode/releases/tag/Releases).
 
 5. Select "Import" under the "Actions" bar on the left-side of the page.
 
