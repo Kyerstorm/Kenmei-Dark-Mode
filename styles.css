@@ -1,38 +1,63 @@
-.bg-white,
-footer[data-v-c971e704] {
-    background-color: rgb(17, 24, 39);
-}
-
-.the-dashboard-header {
-    background-color: rgb(17, 24, 39);
-    border: rgb(55, 65, 81);
-}
-
-.desktop-link[data-v-15f9397e],
-.router-link-active.desktop-link[data-v-15f9397e]   {
-    color: white;
-}
-
-.text-gray-700 {
-    color: black
-}
-
-.btn--regular[data-v-139654a8], 
-.btn--bell[data-v-4e08143f],
-kbd[data-v-139654a8],
-.series-link[data-v-e60ccf13],
-[type=checkbox],[type=radio],
-.link[data-v-c971e704],
-.link[data-v-c971e704]:hover  {
-    color: white;
-}
-
-.router--wrapper[data-v-549a39cc] {
-    background-color: rgb(51, 65, 85);
-}
-
-.the-dashboard[data-v-639c85e7],
-.top-drawer[data-v-e1fa45af],
-.the-dashboard-footer[data-v-639c85e7]  {
-     background-color: rgb(31, 41, 55);
+@-moz-document url-prefix("https://www.kenmei.co/") {
+    .bg-white,
+    footer[data-v-c971e704] {
+        background-color: rgb(17, 24, 39);
+    }
+    
+    .the-dashboard-header {
+        background-color: rgb(17, 24, 39);
+        border: rgb(55, 65, 81);
+    }
+    
+    .text-gray-700,
+    .chapter__none[data-v-b3992ff2] {
+        color: #3b00a8;;
+    }
+    
+    .desktop-link[data-v-15f9397e],
+    .router-link-active.desktop-link[data-v-15f9397e],
+    .btn--regular[data-v-139654a8], 
+    .btn--bell[data-v-4e08143f],
+    kbd[data-v-139654a8],
+    .series-link[data-v-e60ccf13],
+    [type=checkbox],[type=radio],
+    .link[data-v-c971e704],
+    .link[data-v-c971e704]:hover,
+    button,input,
+    optgroup,
+    select,
+    textarea,
+     .text-gray-400,
+    button[data-v-bda35c80] {
+        color: white;
+    }
+    
+    .router--wrapper[data-v-549a39cc],
+    .switch[data-v-a94a452b],
+    [type=text],
+    button[data-v-bda35c80]{
+        background-color: rgb(51, 65, 85);
+    }
+    
+    .the-dashboard[data-v-639c85e7],
+    .top-drawer[data-v-e1fa45af],
+    .the-dashboard-footer[data-v-639c85e7]  {
+         background-color: rgb(31, 41, 55);
+    }
+    
+    @media (min-width: 640px) {
+        .list-row__regular[data-v-df88933d]:hover {
+            --tw-bg-opacity: 1;
+            background-color: rgb(55, 65, 81);
+        }
+        
+    .top-drawer[data-v-e1fa45af] {
+            border-color: rgb(31, 41, 55);
+    }
+        
+    .divide-gray-200>:not([hidden])~:not([hidden]),
+    .the-dashboard[data-v-639c85e7] {
+            border-color: black   
+        }
+    } 
 }
