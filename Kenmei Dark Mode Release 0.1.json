@@ -107,7 +107,7 @@
   {
     "enabled": false,
     "installDate": 1725483412021,
-    "name": "www.kenmei.co/dashboard",
+    "name": "Kenmei Dark Mode",
     "sections": [
       {
         "code": ".bg-white,\nfooter[data-v-c971e704] {\n    background-color: rgb(17, 24, 39);\n}\n\n.the-dashboard-header {\n    background-color: rgb(17, 24, 39);\n    border: rgb(55, 65, 81);\n}\n\n.text-gray-700,\n.chapter__none[data-v-b3992ff2] {\n    color: #3b00a8;;\n}\n\n.desktop-link[data-v-15f9397e],\n.router-link-active.desktop-link[data-v-15f9397e],\n.btn--regular[data-v-139654a8], \n.btn--bell[data-v-4e08143f],\nkbd[data-v-139654a8],\n.series-link[data-v-e60ccf13],\n[type=checkbox],[type=radio],\n.link[data-v-c971e704],\n.link[data-v-c971e704]:hover,\nbutton,input,\noptgroup,\nselect,\ntextarea,\n .text-gray-400,\nbutton[data-v-bda35c80] {\n    color: white;\n}\n\n.router--wrapper[data-v-549a39cc],\n.switch[data-v-a94a452b],\n[type=text],\nbutton[data-v-bda35c80]{\n    background-color: rgb(51, 65, 85);\n}\n\n.the-dashboard[data-v-639c85e7],\n.top-drawer[data-v-e1fa45af],\n.the-dashboard-footer[data-v-639c85e7]  {\n     background-color: rgb(31, 41, 55);\n}\n\n@media (min-width: 640px) {\n    .list-row__regular[data-v-df88933d]:hover {\n        --tw-bg-opacity: 1;\n        background-color: rgb(55, 65, 81);\n    }\n    \n.top-drawer[data-v-e1fa45af] {\n        border-color: rgb(31, 41, 55);\n}\n    \n.divide-gray-200>:not([hidden])~:not([hidden]),\n.the-dashboard[data-v-639c85e7] {\n        border-color: black   \n    }",
