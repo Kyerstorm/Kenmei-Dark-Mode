@@ -1,12 +1,14 @@
 # Changelog V0.1.1-Alpha
 
+## General
+
 - CSS format has been slightly updated to improve readbility (will update in the future)
 
 - Pages other than the dashboard no longer support this style till the pages are complete. They will be enabled as they are ready.
 
 - Additional instructions and files have been added for people who use a css editor other than Stylus.
 
-## Dasboard Update
+## Dasboard
 
 - Changed text for displaying results to be more clear (light red)
 
