@@ -2,7 +2,9 @@
 
  UserStyle for [Kenmei](https://www.kenmei.co) Kenmei that puts the website in dark mode.
 
- Tested on OperaGX
+ [Changelog](https://github.com/Kyerstorm/Kenmei-Dark-Mode/blob/main/Changelog.md)
+
+ *Tested on OperaGX*
 
 ## Installation with Stylus
 
