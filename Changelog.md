@@ -1,6 +1,20 @@
-# Changelog V0.1.1-Alpha
+# Changelog
 
-## General
+## Changelog V0.1.2-Alpha
+
+### Dashboard Progress 100%
+
+- Changed some text colors to improve visibility
+
+- Fixed over 100 hover psudeo-elements that made the text impossible to read
+
+- Fixed some bugged border styling
+
+- 
+
+## Changelog V0.1.1-Alpha
+
+### General
 
 - CSS format has been slightly updated to improve readbility (will update in the future)
 
@@ -8,7 +22,7 @@
 
 - Additional instructions and files have been added for people who use a css editor other than Stylus.
 
-## Dasboard
+### Dasboard - Progress 70%
 
 - Changed text for displaying results to be more clear (light red)
 
