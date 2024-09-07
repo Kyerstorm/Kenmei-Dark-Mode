@@ -1,11 +1,18 @@
 @-moz-document url("https://www.kenmei.co/dashboard") {
     .bg-white{
         background-color: rgb(17, 24, 39);
+        border: 1px solid rgb(31, 41, 55);
     }
+
+    .bg-gray-100 {
+     background-color: rgb(17, 24, 39);
+    
+}
     
     .the-dashboard[data-v-639c85e7] {
         background-color: rgb(31, 41, 55);
-        border-radius: 30px
+        border-radius: 30px;
+            border: black solid 0.75px;
     }
     
     .the-dashboard-header {
@@ -51,9 +58,25 @@
         border-color: rgb(17, 24, 39);
     }
     
-    .text-gray-700,
     .chapter__none[data-v-b3992ff2] {
-        color: #b73c3c;;
+        color: rgb(0, 0, 0);;
+    }
+
+    time[data-v-e60ccf13] {
+        color: rgb(173, 167, 167)   
+    }
+
+    .text-gray-950, 
+    .text-gray-900,  
+    .text-gray-500, 
+    .text-gray-400,
+    .text-gray-700 {
+        color: white
+    }
+
+    .input--visible[data-v-9055045d]:focus {
+        border: none;
+        --tw-ring-color: rgb(0, 0, 0)
     }
     
     /* Readable on, tags, refresh, content type */
@@ -61,14 +84,43 @@
     button[data-v-e31e3202]:hover {
         color: white
     }
+
+    button[data-v-bda35c80] {
+        background-color: rgb(51, 65, 85);
+        color: rgb(255, 255, 255);
+}
+
+    .border-gray-300 {
+        border: solid rgb(55, 65, 81) 1px
+    }
+
+    .hover_bg-gray-100:hover {
+        background-color: rgb(20 33 61);
+    }
+
+    div[data-v-ee3b4529]:focus {
+        background-color: rgb(173, 167, 167)
+    }
     
-    /* "Readable on" dropdown */
-    #radix-vue-combobox-option-30:hover,
-    #radix-vue-combobox-option-32:hover,
-    #radix-vue-combobox-option-34:hover,
-    #radix-vue-combobox-option-36:hover,
-    #radix-vue-combobox-option-38:hover {
-        background-color: rgb(55, 65, 81);
+    div[data-v-bf56e783]:hover{
+        background-color: rgb(17, 24, 39);
+    }
+
+    .router--wrapper[data-v-549a39cc],
+    .switch[data-v-a94a452b],
+    [type=text] {
+        background-color: rgb(51, 65, 85);
+    }
+    
+    @media (min-width: 640px) {
+        .list-row__regular[data-v-df88933d]:hover {
+            --tw-bg-opacity: 1;
+            background-color: rgb(55, 65, 81);
+        }
+        
+    .divide-gray-200>:not([hidden])~:not([hidden]) {
+            border: rgb(0, 0, 0)   
+        }
     }
     
     
@@ -84,47 +136,17 @@
     button,input,
     optgroup,
     select,
-    textarea,
-    .text-gray-400,
-    button[data-v-bda35c80] {
-        color: white;
+    textarea {
+        color: rgb(255, 255, 255);
     }
-    
-    .router--wrapper[data-v-549a39cc],
-    .switch[data-v-a94a452b],
-    [type=text],
-    button[data-v-bda35c80] {
-        background-color: rgb(51, 65, 85);
-    }
-    
-    @media (min-width: 640px) {
-        .list-row__regular[data-v-df88933d]:hover {
-            --tw-bg-opacity: 1;
-            background-color: rgb(55, 65, 81);
-        }
-        
-    .divide-gray-200>:not([hidden])~:not([hidden]),
-    .the-dashboard[data-v-639c85e7]{
-            border: black   
-        }
-    }
-    
-    .border-gray-300 {
-        border: solid rgb(55, 65, 81) 1px
-    }
-    
-    .text-gray-950 {
-        color: white
-    }
-    
-    .text-gray-500 {
-        color: white
-    }
-    
-    .hover_bg-gray-100:hover {
-        background-color: rgb(20 33 61);
-    }
-    
-    
-    
-    }
+
+    /* Search Bar */
+
+.wrapper--search-input[data-v-c4cbb89e] {
+    padding: 0;
+}
+
+.modal-body[data-v-c4cbb89e] {
+    margin: 0
+}
+}
