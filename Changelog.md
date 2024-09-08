@@ -2,7 +2,13 @@
 
 ## Changelog V0.1.2-Alpha
 
-### Dashboard Progress 100%
+### General
+
+- Optimised some css classes to prevent conflicts
+
+- Structured CSS slightly better by dividing sections by comments
+
+### Dashboard Progress 95%
 
 - Changed some text colors to improve visibility
 
@@ -10,7 +16,11 @@
 
 - Fixed some bugged border styling
 
-- 
+- Completed search bar styling
+
+- Completed report entry styling
+
+- Completed delete entry styling
 
 ## Changelog V0.1.1-Alpha
 
