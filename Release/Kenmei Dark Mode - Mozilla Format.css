@@ -1,13 +1,10 @@
 @-moz-document url("https://www.kenmei.co/dashboard") {
+    /* Dashboard Complete*/    
+
     .bg-white{
         background-color: rgb(17, 24, 39);
-        border: 1px solid rgb(31, 41, 55);
+        border: 1px solid rgb(20, 33, 61);
     }
-
-    .bg-gray-100 {
-     background-color: rgb(17, 24, 39);
-    
-}
     
     .the-dashboard[data-v-639c85e7] {
         background-color: rgb(31, 41, 55);
@@ -33,6 +30,18 @@
         border-bottom-right-radius: 15px;
         border-top: none
     }
+
+    a[data-v-f4de5fb0],
+    .gap[data-v-f4de5fb0]{
+    background-color: rgb(31, 41, 55);
+    border: none;
+}
+
+    a[data-v-f4de5fb0]:hover,
+    .gap[data-v-f4de5fb0]:hover {
+        background-color: rgb(51, 65, 85)
+    }
+
     
     .top-drawer[data-v-e1fa45af] {
         background-color: rgb(51, 65, 85);
@@ -140,13 +149,100 @@
         color: rgb(255, 255, 255);
     }
 
-    /* Search Bar */
+    /* Notifications - Complete */
 
-.wrapper--search-input[data-v-c4cbb89e] {
-    padding: 0;
-}
+    .dropdown-wrapper[data-v-4e08143f] {
+        background-color: rgb(31, 41, 55);
+    }
 
-.modal-body[data-v-c4cbb89e] {
-    margin: 0
-}
+    h2[data-v-4e08143f] {
+        color: white
+    }
+
+    p[data-v-4e08143f] {
+        color: white
+    }
+
+    /* Menu Dropdown - Complete */
+
+    .dropdown-wrapper[data-v-15f9397e] {
+        background-color: rgb(17, 24, 39);
+    }
+
+    p[data-v-15f9397e] {
+        color: white;
+    }
+
+    .profile-link[data-v-15f9397e] {
+        color: white
+    }
+
+    /* Search Bar - Complete */
+
+    .wrapper--search-input[data-v-c4cbb89e] {
+        padding: 0;
+    }
+
+    .modal-body[data-v-c4cbb89e] {
+        margin: 0
+    }
+
+    .panel[data-v-c4cbb89e] {
+        background-color: rgb(51, 65, 85 / var(--tw-bg-opacity))
+    }
+
+    .wrapper--search-input[data-v-c4cbb89e] {
+        background-color: rgb(17, 24, 39);
+    }
+
+    .tab[data-v-9bf67810] {
+        color: white;
+    }
+    .tab[data-v-9bf67810]:hover {
+        color: rgb(173, 167, 167)
+    }
+
+    .list--item_headline[data-v-e44231a5] {
+        color: white;
+    }
+
+    div[data-v-c4cbb89e] > a[data-v-c4cbb89e]:hover {
+        background-color: rgb(31, 41, 55)
+    }
+    
+     /* Edit Entry - Not Completed*/
+
+    /* Report Entry - Completed*/
+
+    .list-button[data-v-13b52a19] {
+        background-color: rgb(51, 65, 85);
+    }
+
+    li[data-v-13b52a19] {
+        background-color: rgb(51, 65, 85);
+    }
+
+    li[data-v-13b52a19]:hover {
+        color: white;
+        background-color: rgb(20, 33, 61);
+    }
+
+    /* Share Entry - Not Completed*/
+
+    /* Delete Entry - Completed*/
+
+    .modal-actions[data-v-7fb6ed76] {
+        background-color: rgb(17, 24, 39)
+    }
+
+    .btn-secondary[data-v-106a9a2b] {
+        background-color: rgb(31, 41, 55);
+        color: white;
+        border: none
+    }
+
+    .btn-secondary[data-v-106a9a2b]:hover {
+        background-color: rgb(55, 65, 81);
+        color: white;
+    }
 }
