@@ -4,7 +4,7 @@
 
  [Changelog](https://github.com/Kyerstorm/Kenmei-Dark-Mode/blob/main/Changelog.md)
 
- *Tested on OperaGX*
+ Tested on **OperaGX**
 
 ## Installation with Stylus
 
@@ -38,16 +38,10 @@
 
 ## Progress
 
-- Dashboard - 70%
-- Update Entry - 5%
-- Report Entry - 33%
-- Share Entry - 50%
-- Delete Entry - 66%
+- Dashboard - 95%
 - Homepage - 80%
 - Discovery - 90%
 - Browse - 30%
-- Quick Search - 10%
-- Notifications - 0%
 - Profile Overview - 50%
 - Profile Library - 40%
 - Profile Statistics - 85%
