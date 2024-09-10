@@ -1,5 +1,5 @@
 @-moz-document url("https://www.kenmei.co/dashboard") {
-    /* Dashboard Complete*/    
+    /* Dashboard - Complete*/    
 
     .bg-white{
         background-color: rgb(17, 24, 39);
@@ -35,16 +35,19 @@
     .gap[data-v-f4de5fb0]{
     background-color: rgb(31, 41, 55);
     border: none;
-}
+    }
 
     a[data-v-f4de5fb0]:hover,
     .gap[data-v-f4de5fb0]:hover {
         background-color: rgb(51, 65, 85)
     }
 
+    .page[data-v-f4de5fb0] {
+        color: white
+    }
     
     .top-drawer[data-v-e1fa45af] {
-        background-color: rgb(51, 65, 85);
+        background-color: rgb(29, 37, 54);
         border-bottom: none;
     }
     
@@ -83,21 +86,33 @@
         color: white
     }
 
+    .series-link[data-v-e02afb31] {
+        color: white
+    }
+
+    .chapter-meta[data-v-d1b82ecc] {
+        color: rgb(173, 167, 167);
+    }
+
     .input--visible[data-v-9055045d]:focus {
         border: none;
         --tw-ring-color: rgb(0, 0, 0)
     }
+
+    .reset-button--desktop[data-v-e31e3202] {
+        color: white
+    }
+
+    .reset-button--desktop[data-v-e31e3202]:hover {
+        color: rgb(173, 167, 167)
+    }
     
     /* Readable on, tags, refresh, content type */
+    
     button[data-v-bf56e783]:hover,
     button[data-v-e31e3202]:hover {
         color: white
     }
-
-    button[data-v-bda35c80] {
-        background-color: rgb(51, 65, 85);
-        color: rgb(255, 255, 255);
-}
 
     .border-gray-300 {
         border: solid rgb(55, 65, 81) 1px
@@ -118,7 +133,7 @@
     .router--wrapper[data-v-549a39cc],
     .switch[data-v-a94a452b],
     [type=text] {
-        background-color: rgb(51, 65, 85);
+        background-color: rgb(29, 37, 54);
     }
     
     @media (min-width: 640px) {
@@ -131,7 +146,18 @@
             border: rgb(0, 0, 0)   
         }
     }
-    
+
+    .bg-gray-100 {
+        background-color: rgb(17, 24, 39);
+    }
+
+    #radix-vue-tabs-68-trigger-desc{
+        background-color: rgb(31, 41, 55);
+    }
+
+    .data-\[state\=active\]_bg-white[data-state=active] {
+        background-color: rgb(51, 65, 85);
+    }
     
     .desktop-link[data-v-15f9397e],
     .router-link-active.desktop-link[data-v-15f9397e],
@@ -163,7 +189,19 @@
         color: white
     }
 
-    /* Menu Dropdown - Complete */
+    .notification-content[data-v-8bcd9c16] {
+        background-color: rgb(55, 65, 81);
+    }
+
+    button[data-v-8bcd9c16] {
+        background-color: rgb(55, 65, 81);
+    }
+
+    button[data-v-8bcd9c16]:hover {
+        background-color: rgb(173, 167, 167);
+    }
+
+    /* Profile Dropdown - Complete */
 
     .dropdown-wrapper[data-v-15f9397e] {
         background-color: rgb(17, 24, 39);
@@ -175,6 +213,15 @@
 
     .profile-link[data-v-15f9397e] {
         color: white
+    }
+
+    div[data-v-15f9397e] > a[data-v-15f9397e]:not(:nth-child(1)):hover {
+    background-color: rgb(55, 65, 81);
+    color: white
+    }
+
+    div[data-v-15f9397e] > a[data-v-15f9397e]:hover {
+        background-color: white;
     }
 
     /* Search Bar - Complete */
@@ -210,7 +257,60 @@
         background-color: rgb(31, 41, 55)
     }
     
-     /* Edit Entry - Not Completed*/
+     /* Edit Entry - Completed*/
+
+    .wrapper--title[data-v-ef8de7cf] {
+      background-color: rgb(20, 33, 61);
+        border: none
+    }
+
+    .panel[data-v-2cd0b677],
+    .actions[data-v-ef8de7cf] {
+      background-color: rgb(20, 33, 61);
+    }
+
+    .vue-number-input__input[data-v-188efc8c],
+    button[data-v-858ef1ee],
+    .list-button[data-v-858ef1ee],
+    .list-button[data-v-13b52a19] {
+        background-color: rgb(51, 65, 85);
+        border: none
+    }
+
+    .button--score {
+        border: none; 
+    }
+
+    .hover_bg-gray-100:hover {
+        background-color: rgb(29, 37, 54);
+    }
+
+    .options[data-v-858ef1ee],
+    .multiselect[data-v-d228a90e] > .vs__dropdown-toggle {
+        background-color: rgb(55, 65, 81);
+        border: none
+    }
+
+    .hover_text-gray-900:hover,
+    .placeholder-tag[data-v-ef8de7cf],
+    label[data-v-0e79bcfa],
+    .label[data-v-13b52a19],
+    .label[data-v-ef8de7cf],
+    .label[data-v-858ef1ee],
+    label[data-v-51b7852a],
+    label[data-v-d228a90e],
+    div[data-v-ef8de7cf] > h1[data-v-ef8de7cf] {
+        color: white
+    }
+
+    .button--score[data-v-ef8de7cf] {
+        background-color: rgb(55, 65, 81);
+    }
+
+    #radix-vue-popover-content-225 {
+        background-color: rgb(20, 33, 61);
+        border: 1px solid rgb(51, 65, 85)
+    }
 
     /* Report Entry - Completed*/
 
@@ -227,7 +327,12 @@
         background-color: rgb(20, 33, 61);
     }
 
-    /* Share Entry - Not Completed*/
+    /* Live Notifications - Completed*/
+
+    button[data-v-bda35c80] {
+    background-color: rgb(51, 65, 85);
+    color: rgb(255, 255, 255);
+    }
 
     /* Delete Entry - Completed*/
 
