@@ -1,5 +1,5 @@
 @-moz-document url("https://www.kenmei.co/dashboard") {
-    /* Dashboard - Complete*/    
+    /* Dashboard - Complete*/  
 
     .bg-white{
         background-color: rgb(17, 24, 39);
@@ -19,6 +19,9 @@
         border-top-right-radius: 30px;
     }
     
+    .router--wrapper[data-v-645f2fdc] {
+        background-color: rgb(29, 37, 54);
+    }
     
     footer[data-v-c971e704] {
         background-color: rgb(17, 24, 39);
@@ -30,6 +33,11 @@
         border-bottom-right-radius: 15px;
         border-top: none
     }
+
+    .list-row__selected[data-v-df88933d] {
+        background-color: rgb(20, 33, 61);
+    }
+    
 
     a[data-v-f4de5fb0],
     .gap[data-v-f4de5fb0]{
@@ -55,6 +63,8 @@
         background: rgb(17, 24, 39);
         border-color: rgb(17, 24, 39)
     }
+
+    
     
     .mode-select-btn[data-v-a94a452b] {
         background-color: rgb(17, 24, 39);
@@ -106,7 +116,7 @@
     .reset-button--desktop[data-v-e31e3202]:hover {
         color: rgb(173, 167, 167)
     }
-    
+
     /* Readable on, tags, refresh, content type */
     
     button[data-v-bf56e783]:hover,
@@ -256,7 +266,7 @@
     div[data-v-c4cbb89e] > a[data-v-c4cbb89e]:hover {
         background-color: rgb(31, 41, 55)
     }
-    
+
      /* Edit Entry - Completed*/
 
     .wrapper--title[data-v-ef8de7cf] {
@@ -326,6 +336,7 @@
         color: white;
         background-color: rgb(20, 33, 61);
     }
+
 
     /* Live Notifications - Completed*/
 
