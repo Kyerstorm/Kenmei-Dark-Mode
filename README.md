@@ -40,7 +40,6 @@
 
 ## To Do List
 
-- Dashboard - "Select all hover element change"
 - Homepage
 - Discovery
 - Browse
