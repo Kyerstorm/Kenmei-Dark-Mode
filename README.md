@@ -8,6 +8,8 @@
 
 ## Installation with Stylus
 
+**important:** *Follow the Universal Installation method if you have existin g presets you dont want to lose*
+
 1. Download the latest [release](https://github.com/Kyerstorm/Kenmei-Dark-Mode/releases).
 
 2. Install [UserStyles](https://userstyles.org/) to your browser.
