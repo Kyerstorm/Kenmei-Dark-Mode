@@ -1,5 +1,35 @@
 # Changelog
 
+## Changelog V0.1.3-Alpha
+
+### General
+
+- Dashboard dark mode styling completed
+
+- Fixed typos in Installaton Instructions
+
+- Added a relevant note in "Installation Instructions.md" and "README.md" to Stylus users
+
+### Dashboard Progress 100%
+
+- Changed page selector color to improve visibility
+
+- Updated main background to improve color consistency
+
+- Profile dropdown styling completed
+
+- Fixed an incorrect styling in the unread dropdown
+
+- Edit entry styling completed
+
+- Live notification styling completed
+
+- Added compatability for premium selectors, dropdowns and list options
+
+#### Bugs
+
+- When selecting dropdowns such as "content type" the first option of the category initially has a white background appears over it on opening and hovering over specific pixels
+
 ## Changelog V0.1.2-Alpha
 
 ### General
