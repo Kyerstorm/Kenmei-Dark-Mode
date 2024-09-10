@@ -38,9 +38,9 @@
 5. Paste the contents into your css editor and enable it
 **Done**
 
-## Progress
+## To Do List
 
-- Dashboard - 95%
+- Dashboard - "Select all hover element change"
 - Homepage - 80%
 - Discovery - 90%
 - Browse - 30%
