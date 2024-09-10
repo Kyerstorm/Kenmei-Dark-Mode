@@ -1,5 +1,15 @@
 # Changelog
 
+## Changelog V0.1.4-Alpha
+
+### General
+
+- checkbox selection color chnaged to be less heavy on the eyes
+
+### Bugfixes
+
+- Dashboard background element being the wrong color
+
 ## Changelog V0.1.3-Alpha
 
 ### General
