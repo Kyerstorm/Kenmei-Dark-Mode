@@ -41,20 +41,20 @@
 ## To Do List
 
 - Dashboard - "Select all hover element change"
-- Homepage - 80%
-- Discovery - 90%
-- Browse - 30%
-- Profile Overview - 50%
-- Profile Library - 40%
-- Profile Statistics - 85%
-- Account Settings - 75%
-- Account Appearence - 85%
-- Account Dashboard - 95%
-- Account Billing - 85%
-- Product Pricing - 40%
-- Product Blog - Undecided
-- Resources Changelog - Undecided
-- Resources Suggestions - Undecided
-- Resources Supported Sites - 80%
-- Legal Privacy - 90%
-- Legal Terms - 90%
+- Homepage
+- Discovery
+- Browse
+- Profile Overview
+- Profile Library
+- Profile Statistics
+- Account Settings
+- Account Appearence
+- Account Dashboard
+- Account Billing
+- Product Pricing
+- Product Blog
+- Resources Changelog
+- Resources Suggestions
+- Resources Supported Sites
+- Legal Privacy
+- Legal Terms
