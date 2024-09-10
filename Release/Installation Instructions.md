@@ -1,5 +1,7 @@
 # Installation with Stylus
 
+**important:** *Follow the Universal Installation method if you have existin g presets you dont want to lose*
+
 1. Download the latest [release](https://github.com/Kyerstorm/Kenmei-Dark-Mode/releases).
 
 2. Unzip the folder.
@@ -15,7 +17,7 @@
 7. Enable it by ticking the checkbox next to the name.
 **Done**
 
-## Universal Installlation
+## Universal Installation
 
 - Note: due to not all css customisation extentions allowing site-wide customisation, you may have to make multiple profiles for each page.
 
